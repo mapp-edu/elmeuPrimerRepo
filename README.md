@@ -1,1 +1,1 @@
-* Prova de git amb VSCode i modificat
+* Prova de git amb VSCode
