@@ -1,0 +1,1 @@
+* Prova de git amb VSCode i modificat
